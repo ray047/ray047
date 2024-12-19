@@ -7,7 +7,7 @@ I'm Ray, a cyber security enthusiast I'm passionate about cyber forensics and an
 - 🔭 Currently working on Crisp(incident response simulator)
 - 🌱 Currently learning SOC and VAPT
 - 👯 Looking to collaborate on cyber security,Marketing,crypto
-- 📫 How to reach me: sanajoshitharoyal@gmail.com
+- 📫 How to reach me: sanajoshitha9@gmail.com
 - ⚡ Fun fact: I make really good pasta.
 
 ## Skills
@@ -31,7 +31,7 @@ Incident Response simulation tool
 
 ## Get in Touch with me!
 
-Feel free to connect with me on Instagram:@sanahhh.04, LinkedIn: sana joshitha or drop me an email at sanajoshitharoyal@gmail.com I’m always open to discussing new opportunities or just having a chat about tech!
+Feel free to connect with me on Instagram:@sanahhh.04, LinkedIn: sana joshitha or drop me an email at sanajoshitha9@gmail.com I’m always open to discussing new opportunities or just having a chat about tech!
 
 ---
 
